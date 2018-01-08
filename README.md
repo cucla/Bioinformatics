@@ -1,2 +1,2 @@
-# ML
-Machine Learning algorithm for bioinformatics
+# Bioinformatics
+Projects and code snippets related to bio
